@@ -95,21 +95,31 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View)
+## 📊 GitHub Stats
 
-
-<details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="M Umar Khan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mumarkhan999&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
+<p align="center">
+  <!--
+  <a href="https://github.com/stats-organization/github-stats-extended"><img alt="M Umar Khan's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=mumarkhan999&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mumarkhan999&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mumarkhan999" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+  -->
+  <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mumarkhan999&show_icons=true&locale=en&layout=compact&theme=algolia" height="192px"/>
+</p>
+
+<br/>
+
+## 💼 Featured Work
+
+**Senior Software Engineer @ Arbisoft** (2018 – 2026) · 7+ years across 8 client engagements spanning payments infrastructure and enterprise LMS platforms.
+
+- 💳 **Travly** — travel booking platform, 100k+ users — Owned subscription billing end-to-end (Stripe, RevenueCat) and redesigned the booking payment flow, eliminating manual refunds on ~1 in 4 bookings.
+- 🛠️ **Production reliability** — Diagnosed a recurring outage requiring daily manual DB restarts; used Locust load testing to pinpoint the costly queries and drove the infra fix that eliminated it.
+- 🔐 **Enterprise SSO** (client engagement) — Delivered single sign-on across 3 systems (Magento, Drupal, Open edX) via a custom Azure AD B2C OAuth2 client, plus centralized single sign-out.
+- 📊 **Real-time analytics pipeline** (client engagement) — Built log streaming to Kafka for student learning-data research on an Open edX deployment.
+- Plus platform engineering across 5 additional enterprise Open edX client engagements — infra migration, custom XBlocks, i18n, and billing plugins.
+
+### 🧭 Leadership
+Led delivery teams of 2–4 engineers across multiple client engagements at Arbisoft, owning technical delivery and work-breakdown planning end-to-end.
+
 <br/>
 
 ## 🙋‍♀️ Let's Connect

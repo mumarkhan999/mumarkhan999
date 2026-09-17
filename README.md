@@ -93,17 +93,15 @@
   &emsp;
 </p>
 
-<br/>
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!--
   <a href="https://github.com/stats-organization/github-stats-extended"><img alt="M Umar Khan's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=mumarkhan999&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
   &nbsp;
-  -->
   <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mumarkhan999&show_icons=true&locale=en&layout=compact&theme=algolia" height="192px"/>
 </p>
+-->
 
 <br/>
 
